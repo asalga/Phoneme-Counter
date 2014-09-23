@@ -24,7 +24,7 @@ do
 	
 	#echo "$TEST"
 
-done < jokes.txt
+done < input.txt
 
 #-d VOICE='cmu-rms-hmss'	\
 
