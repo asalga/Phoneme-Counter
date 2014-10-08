@@ -8,6 +8,7 @@
 # fix voice
 
 OUT="analysis.txt"
+rm analysis.txt
 
 while read line
 do
