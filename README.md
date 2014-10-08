@@ -8,7 +8,9 @@ Some scripts for couting phonemes for research
 $ ./maryserver
 ```
 
-2) Run the feeder
+2) Create 'input.txt' each line with a sentence.
+
+3) Run the feeder
 ```shell
 $ ./feeder.sh
 ```
