@@ -12,6 +12,7 @@ rm analysis.txt
 
 while read line
 do
+	sleep 0.25
 	
 	echo "$line" >> "$OUT"
 
